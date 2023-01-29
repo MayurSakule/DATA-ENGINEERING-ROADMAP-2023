@@ -22,12 +22,7 @@
 
 ## 4. Big Data Concepts:
 
-- HDFS, Mapreduce
-- Hive
-- Sqoop
-- Scala Spark and Pyspark (Python Spark)
-- Apache Kafka
-- Apache Oozie
+- Complete Big Data.
 
 ## 5. ETL Tools:
 
