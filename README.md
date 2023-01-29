@@ -22,7 +22,17 @@
 
 ## 4. Big Data Concepts:
 
-- Complete Big Data.
+- Hadoop
+- Hive
+- Sqoop
+- Spark Scala and Pyspark
+- Cassandra
+- HBase
+- NiFi
+- Oozie
+- RDD
+- Kafka
+
 
 ## 5. ETL Tools:
 
