@@ -26,7 +26,8 @@
 - Hive
 - Sqoop
 - Scala Spark and Pyspark (Python Spark)
-
+- Apache Kafka
+- Apache Oozie
 
 ## 5. ETL Tools:
 
@@ -40,8 +41,6 @@
 
 - AWS, AZURE, GCP
 - AWS= S3, EC2, RDS, AWS EMR, Athena, AWS Glue, Redshift
-- Apache Kafka
-- Apache Oozie
 - Azure
 
 ## 8. Git
