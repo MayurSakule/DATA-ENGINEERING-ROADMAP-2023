@@ -160,5 +160,5 @@ Do research on following concepts and understand it properly.
 
 ----
 <p align="center">
-𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 (𝐂) 𝐌𝐀𝐘𝐔𝐑 𝐒𝐀𝐊𝐔𝐋𝐄
+𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 © 𝐌𝐀𝐘𝐔𝐑 𝐒𝐀𝐊𝐔𝐋𝐄
 
