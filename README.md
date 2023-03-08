@@ -12,7 +12,7 @@
 - File handling 
 - Collections
 - Methods
-- JDBC Connectivity 
+- JDBC Connectivity  9
 - Python Libraries : Pandas, Numpy, Matplotlib
 
 
@@ -116,22 +116,12 @@ You can choose any one. Apache Airflow is most preferred one.
 - Azkaban
 
 
-## 𝟭𝟰. 𝗠𝘂𝘀𝘁 𝗞𝗻𝗼𝘄 𝗧𝗵𝗶𝗻𝗴𝘀 𝗳𝗼𝗿 𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 : (Learn from Easy to Medium Level)
-Below Skill Sets are most important & gives great impact on your resume / cv.
-- GitHub
-- GitHub Actions
-- Jenkins
-- Spinnaker
-- Docker
-- Kubernetes
-
-
-## 𝟭𝟱. 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗤𝘂𝗲𝘂𝗲 : (Learn from Easy to Hard / Advanced Level)
+## 𝟭𝟰. 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗤𝘂𝗲𝘂𝗲 : (Learn from Easy to Hard / Advanced Level)
 
 - Apache Kafka
 
 
-## 𝟭𝟲. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 : (Learn from Easy to Medium Level)
+## 𝟭𝟱. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 : (Learn from Easy to Medium Level)
 Do research on following concepts and understand it properly.
 - OLTP vs OLAP
 - Normalized Data vs DeNormalized Data
@@ -145,21 +135,30 @@ Do research on following concepts and understand it properly.
 - Data Warehousing Design Questions
 
 
-## 𝟭𝟳. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 : (Learn from Easy to Hard / Advanced Level)
+## 𝟭𝟲. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 : (Learn from Easy to Hard / Advanced Level)
 
 - Apache Hive
 - Snowflake
 - Amazon Redshift (AWS Cloud)
 
 
- ## 𝟭𝟴. 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 : (Learn from Easy to Hard / Advanced Level)
+ ## 𝟭𝟳. 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 : (Learn from Easy to Hard / Advanced Level)
  You can choose any one.
  - AWS : IAM, EC2, EMR, S3, RDS, Athena, boto3, Glue, Lambda, Cloudwatch, Redshift, SNS, SQS, Kinesis, Quicksight, DynamoDB
  - AZURE : Azure Blob Storage, Azure Functions, Azure Virtual Machines, Azure HDInsight, Azure DataFactory, Azure Relational Databases, Azure Data Lake Analytics, Azure  Synapse, Notification Hub, Service Bus, Stream Analytics, Application Insights, Power BI, DocumentDB
  - GCP : Cloud storage, Cloud Functions, Compute Engine, DataFlow, Dataproc, Cloud SQL, BigQuery, Cloud Pub/Sub, StackDriver Monitoring, Genomics, DataStore
 
 
+## 𝟭𝟴.  𝗗𝗲𝘃𝗢𝗽𝘀 : (Learn from Easy to Medium Level)
+Below Skill Sets are most important & gives great impact on your resume / cv.
+- Git & GitHub
+- GitHub Actions
+- Jenkins
+- Docker
+- Kubernetes
+- Spinnaker
+
+
 ----
 <p align="center">
 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 © 𝟐𝟎𝟐𝟑 𝐌𝐀𝐘𝐔𝐑 𝐒𝐀𝐊𝐔𝐋𝐄
-
