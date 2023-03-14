@@ -34,7 +34,7 @@
 
 ## 𝟰. 𝗗𝗕𝗠𝗦 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 : (Learn from Easy to Medium Level)
 Do research on following concepts and understand it properly.
-- Different Types of DBMS
+- Database : What is Data?, What is Database?, Types of Databases, What is RDBMS (Relational Database Management System)?, Difference between DBMS and RDBMS
 - Working on Transactional Databases
 - ACID Properties
 - Transactions
