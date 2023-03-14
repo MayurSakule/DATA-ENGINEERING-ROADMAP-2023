@@ -149,18 +149,11 @@ Do research on following concepts and understand it properly.
 
 ## 𝟭𝟵.  𝗗𝗲𝘃𝗢𝗽𝘀 : (Learn from Easy to Medium Level)
 Below Skill Sets are most important & gives great impact on your resume / cv.
-- Git = GitLab & GitHub
-- Programming Language = Python
-- Linux = Commands & Shell Scripting
-- Networking & Security = OSI Model, DNS, HTTP, SSH, Security Tools
-- Server Management = Nginx
-- Containers = Docker
-- Container Orchestration = Kubernetes
-- Infrastructure as a code = Terraform
-- CI/CD = Jenkins
-- Monitoring & Observability = Prometheus
-- Cloud provider = AWS or Azure
-- Software Engineering Practices = Scrum
+- Git, Github & Github Actions
+- Jenkins
+- Spinnaker
+- Docker
+- Kubernetes
 
 
 
