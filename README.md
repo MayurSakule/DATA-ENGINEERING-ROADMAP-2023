@@ -85,6 +85,7 @@ Learn all NoSQL Databases given below. You can choose any one also.
 
 
 ## 𝟭𝟬. 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 : (Learn from Easy to Hard / Advanced Level)
+
 You can choose any one. Microsoft Power BI is most preferred one.
 - Microsoft Power BI
 - Tableau
@@ -109,6 +110,7 @@ You can choose any one. Microsoft Power BI is most preferred one.
 
 
 ## 𝟭𝟰. 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄 𝗠𝗮𝗻𝗮𝗴𝗲𝗿𝘀 : (Learn from Easy to Hard / Advanced Level)
+
 You can choose any one. Apache Airflow is most preferred one.
 - Apache Airflow
 - Azkaban
@@ -120,7 +122,7 @@ You can choose any one. Apache Airflow is most preferred one.
 
 
 ## 𝟭𝟲. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 : (Learn from Easy to Medium Level)
-Do research on following concepts and understand it properly.
+
 - OLTP vs OLAP
 - Normalized Data vs DeNormalized Data
 - Data Lake, Data Warehouse, Data Mart, Lake House
@@ -135,12 +137,14 @@ Do research on following concepts and understand it properly.
 
 ## 𝟭𝟳. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 : (Learn from Easy to Hard / Advanced Level)
 
+You can choose any one. Snowflake is most preferred one.
 - Apache Hive
 - Snowflake
 - Amazon Redshift (AWS Cloud)
 
 
  ## 𝟭𝟴. 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 : (Learn from Easy to Hard / Advanced Level)
+ 
  You can choose any one.
  - AWS : IAM, EC2, EMR, S3, RDS, Athena, boto3, Glue, Lambda, Cloudwatch, Redshift, SNS, SQS, Kinesis, Quicksight, DynamoDB
  - AZURE : Azure Blob Storage, Azure Functions, Azure Virtual Machines, Azure HDInsight, Azure DataFactory, Azure Relational Databases, Azure Data Lake Analytics, Azure  Synapse, Notification Hub, Service Bus, Stream Analytics, Application Insights, Power BI, DocumentDB
@@ -148,6 +152,7 @@ Do research on following concepts and understand it properly.
 
 
 ## 𝟭𝟵.  𝗗𝗲𝘃𝗢𝗽𝘀 : (Learn from Easy to Medium Level)
+
 Below Skill Sets are most important & gives great impact on your resume / cv.
 - Git, Github & Github Actions
 - Jenkins
