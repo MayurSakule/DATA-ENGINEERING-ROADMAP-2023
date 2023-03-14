@@ -3,21 +3,27 @@
 
 ## 𝟭. 𝗣𝘆𝘁𝗵𝗼𝗻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴: (Learn from Easy to Medium Level)
 
-- Python architecture and advantages.
+- Python Introduction & History
+- Data Types in Python
+- Operator in Python
+- Input Output in Python
+- Control Flow in Python
+- Strings in Python
+- Functions in Python
+- Modules & Packages in Python
+- Classes in Python
+
+
+## 𝟮. 𝗘𝘅𝗽𝗹𝗼𝗿𝗮𝘁𝗼𝗿𝘆 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 𝗶𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 : (Learn from Easy to Medium Level)
+
+- Pandas
+- NumPy
+- Matplotlib
+
+
+## 𝟯. 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 𝗧𝗼𝗽𝗶𝗰𝘀 : (Learn from Easy to Medium Level)
+
 - Python Data Structure : List, Tuple, Dictionary, Ordered Dictionary, Set
-- Variables ,data types, if loop,for loop and Conditional statements 
-- OOPs Concepts 
-- Exceptional Handling 
-- String handling 
-- File handling 
-- Collections
-- Methods
-- JDBC Connectivity  9
-- Python Libraries : Pandas, Numpy, Matplotlib
-
-
-## 𝟮. 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 𝗶𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 : (Learn from Easy to Medium Level)
-
 - Array
 - String
 - Searching
@@ -25,15 +31,14 @@
 - Dynamic Programming (Basic)
 
 
-## 𝟯. 𝗟𝗶𝗻𝘂𝘅 : (Learn from Easy to Medium Level)
+## 𝟰. 𝗟𝗶𝗻𝘂𝘅 : (Learn from Easy to Medium Level)
 
-- Linux History
 - Linux Commands
 - Linux Shell-Scripting
 
 
-## 𝟰. 𝗗𝗕𝗠𝗦 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 : (Learn from Easy to Medium Level)
-Do research on following concepts and understand it properly.
+## 𝟱. 𝗗𝗕𝗠𝗦 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 : (Learn from Easy to Medium Level)
+
 - Database : What is Data?, What is Database?, Types of Databases, What is RDBMS (Relational Database Management System)?, Difference between DBMS and RDBMS
 - Working on Transactional Databases
 - ACID Properties
@@ -46,35 +51,28 @@ Do research on following concepts and understand it properly.
 - DDL, DML, DQL, DCL, TCL
 
 
-## 𝟱. 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 : (Learn from Easy to Medium Level)
+## 𝟲. 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 : (Learn from Easy to Medium Level)
+
 You can choose any one.
 - MySQL
 - PostgreSQL
 
 
-## 𝟲. 𝗦𝗤𝗟 : (Learn from Easy to Hard / Advanced Level)
-SQL is most important for Data Engineering.
-- All types of joins : Cross Join, Inner Join, Left Join, Right Join, Full Outer Join
-- Where Clause & Order By Clause
-- Group By &  Having Clause
-- Case When Statement
-- Case When Statement with Group By
-- SubQueries & Nested SubQueries
-- IN, NOT IN, ANY, ALL, EXISTS, NOT EXISTS
-- Aggregation & Date Related Functions
-- Common Table Expressions (CTE) : Iterative, Recursive
-- Window Functions : Over Clause, Partition By & Order By Syntax, Count, Sum, Min, Max, Avg, Row_Number, Rank, Dense_Rank, Lead, Lag, NTH_VALUE, Frame Clause : Range Between, Rows Between
+## 𝟳. 𝗦𝗤𝗟 : (Learn from Easy to Hard / Advanced Level)
+
+- Complete SQL
 
 
-## 𝟳. 𝗡𝗼𝗦𝗤𝗟 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 : (Learn from Easy to Medium Level)
-Learn all NoSQL Databases given below.
+## 𝟴. 𝗡𝗼𝗦𝗤𝗟 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 : (Learn from Easy to Medium Level)
+
+Learn all NoSQL Databases given below. You can choose any one also.
 - HBase
 - Cassandra
 - MongoDB
 - Elasticsearch
 
 
-## 𝟴. 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗕𝗶𝗴𝗗𝗮𝘁𝗮 : (Learn from Easy to Hard / Advanced Level)
+## 𝟵. 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗕𝗶𝗴𝗗𝗮𝘁𝗮 : (Learn from Easy to Hard / Advanced Level)
 
 - What is BigData?
 - 5V's of BigData
@@ -86,42 +84,42 @@ Learn all NoSQL Databases given below.
 - Types of Data : Structured, Semi Structured, Unstructured
 
 
-## 𝟵. 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 : (Learn from Easy to Hard / Advanced Level)
+## 𝟭𝟬. 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 : (Learn from Easy to Hard / Advanced Level)
 You can choose any one. Microsoft Power BI is most preferred one.
 - Microsoft Power BI
 - Tableau
 
 
-## 𝟭𝟬. 𝗕𝗮𝘁𝗰𝗵 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 : (Learn from Easy to Hard / Advanced Level)
+## 𝟭𝟭. 𝗕𝗮𝘁𝗰𝗵 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 : (Learn from Easy to Hard / Advanced Level)
 
 - Apache Spark : Spark Core, Spark SQL
 
 
-## 𝟭𝟭. 𝗥𝗲𝗮𝗹 𝗧𝗶𝗺𝗲 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 : (Learn from Easy to Hard / Advanced Level)
+## 𝟭𝟮. 𝗥𝗲𝗮𝗹 𝗧𝗶𝗺𝗲 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 : (Learn from Easy to Hard / Advanced Level)
 
 - Apache Spark : Spark Structured Streaming
 - Apache Flink
 
 
-## 𝟭𝟮. 𝗡𝗼 𝗖𝗼𝗱𝗲 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗨𝗻𝗱𝗲𝗿 𝗕𝗶𝗴𝗗𝗮𝘁𝗮: (Learn from Easy to Hard / Advanced Level)
+## 𝟭𝟯. 𝗡𝗼 𝗖𝗼𝗱𝗲 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗨𝗻𝗱𝗲𝗿 𝗕𝗶𝗴𝗗𝗮𝘁𝗮: (Learn from Easy to Hard / Advanced Level)
 
 - Apache NiFi
 - Apache Flume
 - Apache Sqoop
 
 
-## 𝟭𝟯. 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄 𝗠𝗮𝗻𝗮𝗴𝗲𝗿𝘀 : (Learn from Easy to Hard / Advanced Level)
+## 𝟭𝟰. 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄 𝗠𝗮𝗻𝗮𝗴𝗲𝗿𝘀 : (Learn from Easy to Hard / Advanced Level)
 You can choose any one. Apache Airflow is most preferred one.
 - Apache Airflow
 - Azkaban
 
 
-## 𝟭𝟰. 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗤𝘂𝗲𝘂𝗲 : (Learn from Easy to Hard / Advanced Level)
+## 𝟭𝟱. 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗤𝘂𝗲𝘂𝗲 : (Learn from Easy to Hard / Advanced Level)
 
 - Apache Kafka
 
 
-## 𝟭𝟱. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 : (Learn from Easy to Medium Level)
+## 𝟭𝟲. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 : (Learn from Easy to Medium Level)
 Do research on following concepts and understand it properly.
 - OLTP vs OLAP
 - Normalized Data vs DeNormalized Data
@@ -135,21 +133,21 @@ Do research on following concepts and understand it properly.
 - Data Warehousing Design Questions
 
 
-## 𝟭𝟲. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 : (Learn from Easy to Hard / Advanced Level)
+## 𝟭𝟳. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 : (Learn from Easy to Hard / Advanced Level)
 
 - Apache Hive
 - Snowflake
 - Amazon Redshift (AWS Cloud)
 
 
- ## 𝟭𝟳. 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 : (Learn from Easy to Hard / Advanced Level)
+ ## 𝟭𝟴. 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 : (Learn from Easy to Hard / Advanced Level)
  You can choose any one.
  - AWS : IAM, EC2, EMR, S3, RDS, Athena, boto3, Glue, Lambda, Cloudwatch, Redshift, SNS, SQS, Kinesis, Quicksight, DynamoDB
  - AZURE : Azure Blob Storage, Azure Functions, Azure Virtual Machines, Azure HDInsight, Azure DataFactory, Azure Relational Databases, Azure Data Lake Analytics, Azure  Synapse, Notification Hub, Service Bus, Stream Analytics, Application Insights, Power BI, DocumentDB
  - GCP : Cloud storage, Cloud Functions, Compute Engine, DataFlow, Dataproc, Cloud SQL, BigQuery, Cloud Pub/Sub, StackDriver Monitoring, Genomics, DataStore
 
 
-## 𝟭𝟴.  𝗗𝗲𝘃𝗢𝗽𝘀 : (Learn from Easy to Medium Level)
+## 𝟭𝟵.  𝗗𝗲𝘃𝗢𝗽𝘀 : (Learn from Easy to Medium Level)
 Below Skill Sets are most important & gives great impact on your resume / cv.
 - Git = GitLab & GitHub
 - Programming Language = Python
